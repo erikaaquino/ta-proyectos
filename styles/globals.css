@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #FFF8F3;
+  --color-charcoal: #2C2C2C;
+  --color-rose-dark: #C85A54;
+  --color-rose-darker: #A8483E;
+  --color-rose: #E8A99F;
+  --color-lavender: #D4C5E2;
+  --color-mint: #C8E6E1;
+  
+  --font-serif: Georgia, serif;
+  --font-sans: var(--font-geist-sans), system-ui, -apple-system, sans-serif;
+  --font-mono: var(--font-geist-mono), monospace;
+}

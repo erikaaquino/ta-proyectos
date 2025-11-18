@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --color-charcoal: #2c2c2c;
+  --color-cream: #f5f3f0;
+  --color-rose: #d4a5a0;
+  --color-rose-dark: #a87a73;
+  --color-rose-darker: #8a6357;
+  --color-lavender: #d9d0e8;
+  --color-mint: #c8dfd4;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
